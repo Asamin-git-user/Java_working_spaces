@@ -1,0 +1,2 @@
+# Java_working_spaces
+Javaの勉強用および練習用ソースコード置き場
